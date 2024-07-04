@@ -1,4 +1,4 @@
-package org.example.array1;
+package org.example.array1.test1;
 
 public class Student {
     private String name;
